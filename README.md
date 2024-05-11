@@ -1,16 +1,9 @@
 # fresh_veg
 
-A new Flutter project.
+**Login**                &&                      **Register**                      && **Home**
+
+![Login](https://github.com/Unluck-rider/Fresh-Grocery/assets/123094414/aae84cfb-7e68-47b8-ad8f-d262021111e7)                    ![Register](https://github.com/Unluck-rider/Fresh-Grocery/assets/123094414/e205471a-a04c-4159-84c1-1a670f723b42)                     ![Home](https://github.com/Unluck-rider/Fresh-Grocery/assets/123094414/156f6819-d852-4840-875a-099d3ec7157e)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
